@@ -142,7 +142,7 @@ function clearTasks(){
     clearLocalStorage();
 }
 // local storage clear 
-clearLocalStorage(){
+function clearLocalStorage() {
     localStorage.clear(); 
 }
 
